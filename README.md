@@ -1,4 +1,4 @@
-toute 1 er version de pygwidth 2017
+python 2.7
 origine du projet date de 2000
 
 2017 une vesion pgwidth 
